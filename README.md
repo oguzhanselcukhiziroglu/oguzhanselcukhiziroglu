@@ -5,13 +5,13 @@
 
 ## <img src="https://previews.123rf.com/images/yayayoy/yayayoy1507/yayayoy150700003/42080144-emoticon-pointing-at-himself-with-both-hands-pick-me-.jpg" width="4%"> About Me <img src="https://previews.123rf.com/images/yayayoy/yayayoy1507/yayayoy150700003/42080144-emoticon-pointing-at-himself-with-both-hands-pick-me-.jpg" width="4%">
   
-- 👋 Hi, I’m @Fatalrhym
+- 👋 Hi, I’m @oguzhanselcukhiziroglu
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning AWS and DevOps
 - 💞️ I’m looking to collaborate on DevOps
-- 📫 reach me fyar87@gmail.com <br>
+- 📫 reach me oshiziroglu91@gmail.com <br>
 
 <!---
-Fatalrhym/Fatalrhym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+oguzhanselcukhiziroglu/oguzhanselcukhiziroglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
