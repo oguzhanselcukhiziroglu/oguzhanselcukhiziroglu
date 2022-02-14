@@ -9,7 +9,8 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning AWS and DevOps
 - 💞️ I’m looking to collaborate on DevOps
-- 📫 reach me oshiziroglu91@gmail.com <br>
+- 📫 reach me oshiziroglu91@gmail.com
+- 📫 https://www.linkedin.com/in/oguzhanselcukhiziroglu/<br>
 
 <!---
 oguzhanselcukhiziroglu/oguzhanselcukhiziroglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
